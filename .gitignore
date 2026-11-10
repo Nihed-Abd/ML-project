@@ -50,7 +50,6 @@ coverage.xml
 .ipynb_checkpoints
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -60,7 +59,6 @@ venv.bak/
 
 # IDE specific files
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -73,6 +71,5 @@ Thumbs.db
 *.dat
 *.log
 *.sqlite
-temp_auto_push.bat
-temp_interactive_push.bat
-branch_structure.json
+config.bat
+node_modules
